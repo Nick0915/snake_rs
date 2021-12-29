@@ -1,6 +1,10 @@
 # Snake
 ### By Nikhil Ivaturi
 
+## Install
+
+Make sure cargo is installed on your computer. Clone this repository and run `cargo run` to play.
+
 ## Controls
 
 Use the arrow keys to change the direction of the snake.
