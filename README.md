@@ -3,7 +3,7 @@
 
 ## Install
 
-Make sure cargo is installed on your computer. Clone this repository, cd into it, and run `cargo run` to play.
+Make sure [cargo](https://www.rust-lang.org/learn/get-started) is installed on your computer. Clone this repository, cd into it, and run `cargo run` to play.
 
 ## Controls
 
