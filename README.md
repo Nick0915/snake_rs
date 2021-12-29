@@ -23,4 +23,4 @@ Changes from tutorial:
 * Solved opposite direction input bug
     * Created `QueuedInput` component that is updated on input, this component is then read during the movement state
 * Food cannot spawn on the snake anymore
-    * Created `OccupiedPositions` that would update each movement cycle and keep track of which of these
+    * Created `OccupiedPositions` that would update each movement cycle and keep track of which spots can't have food in them
